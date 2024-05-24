@@ -3,7 +3,7 @@
 // alatrt (3+3) // we are using nodejs, not browser
 
 let name = "Hellow World"; // string
-let age = 18; // integer
+let age = 18; // number
 let isloggedIn = false; // boolean
 let state = null; // type : object 
 
